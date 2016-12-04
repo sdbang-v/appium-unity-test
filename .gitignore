@@ -2,3 +2,10 @@ Scratch/Library/
 ScratchTest/packages/
 ScratchTest/obj/
 ScratchTest/bin/
+ScratchTest/.nuget/NuGet.Config
+ScratchTest/.nuget/NuGet.exe
+ScratchTest/.nuget/NuGet.targets
+ScratchTest/AppiumTest.sln.DotSettings.user
+ScratchTest/AppiumTest.userprefs
+ScratchTest/Properties/AssemblyInfo.cs
+ScratchTest/results.html
